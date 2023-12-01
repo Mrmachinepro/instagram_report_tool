@@ -1,3 +1,7 @@
+#Instagram-reporter
+this tool created for ethical purpose , and it is perfectly working so take care when you use it
+![Capture](https://github.com/Mrmachinepro/instagram_report_tool/blob/main/Capture.PNG)
+
 # Instagram-reporter
 This bot helps users to mass report accounts with clickbaits or objectionable material
 
